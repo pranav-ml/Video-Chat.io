@@ -15,4 +15,3 @@ This is a real-time video chat application where multiple users can chat with ea
 - [React.js](https://reactjs.org/)
 - [Socket.io](https://socket.io/)
 - [Node.js](https://nodejs.org/en/)
-- [Ant Design](https://ant.design/)
